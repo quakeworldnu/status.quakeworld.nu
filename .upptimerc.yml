@@ -21,6 +21,9 @@ sites:
   - name: QuakeWorld Duel Ranks
     url: https://www.qwranks.com
 
+  - name: QuakeWorld Duel Ranks API
+    url: https://backend.qwranks.com/matches/0
+
   - name: QHLAN.org
     url: https://www.qhlan.org
 
