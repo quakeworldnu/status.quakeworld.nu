@@ -38,7 +38,7 @@ status-website:
   name: QuakeWorld Status
 
 workflowSchedule:
-graphs: "0 0 * * *"
+  graphs: "0 0 * * *"
   responseTime: "0 23 * * *"
   staticSite: "0 1 * * *"
   summary: "0 0 * * *"
