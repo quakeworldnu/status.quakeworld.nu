@@ -27,6 +27,12 @@ sites:
   - name: QHLAN.org
     url: https://www.qhlan.org
 
+  - name: builds.quakeworld.nu
+    url: https://builds.quakeworld.nu
+
+  - name: maps.quakeworld.nu
+    url: https://maps.quakeworld.nu
+
 status-website:
   cname: status.quakeworld.nu
   logoUrl: https://www.quakeworld.nu/images/logo.gif
