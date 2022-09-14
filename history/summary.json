@@ -76,19 +76,19 @@
     "url": "https://hubapi.quakeworld.nu/v2/servers/mvdsv",
     "icon": "https://favicons.githubusercontent.com/hubapi.quakeworld.nu",
     "slug": "quake-world-hub-api",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 711,
-    "timeDay": 847,
-    "timeWeek": 711,
-    "timeMonth": 711,
-    "timeYear": 711,
+    "status": "up",
+    "uptime": "99.63%",
+    "uptimeDay": "99.31%",
+    "uptimeWeek": "99.63%",
+    "uptimeMonth": "99.63%",
+    "uptimeYear": "99.63%",
+    "time": 698,
+    "timeDay": 790,
+    "timeWeek": 698,
+    "timeMonth": 698,
+    "timeYear": 698,
     "dailyMinutesDown": {
-      "2022-09-14": 0
+      "2022-09-14": 10
     }
   },
   {
