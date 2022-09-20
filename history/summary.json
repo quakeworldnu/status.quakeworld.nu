@@ -76,18 +76,20 @@
     "url": "https://hubapi.quakeworld.nu/v2/servers/mvdsv",
     "icon": "https://favicons.githubusercontent.com/hubapi.quakeworld.nu",
     "slug": "quake-world-hub-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 685,
-    "timeDay": 640,
-    "timeWeek": 718,
-    "timeMonth": 685,
-    "timeYear": 685,
-    "dailyMinutesDown": {}
+    "time": 688,
+    "timeDay": 696,
+    "timeWeek": 721,
+    "timeMonth": 688,
+    "timeYear": 688,
+    "dailyMinutesDown": {
+      "2022-09-20": 0
+    }
   },
   {
     "name": "QuakeWorld Duel Ranks",
