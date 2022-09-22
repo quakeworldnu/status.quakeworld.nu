@@ -4,54 +4,60 @@
     "url": "https://www.quakeworld.nu",
     "icon": "https://favicons.githubusercontent.com/www.quakeworld.nu",
     "slug": "quake-world-nu",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.98%",
+    "uptimeDay": "99.84%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
     "time": 1254,
     "timeDay": 1400,
     "timeWeek": 1203,
     "timeMonth": 1254,
     "timeYear": 1254,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-09-22": 2
+    }
   },
   {
     "name": "QuakeWorld Wiki",
     "url": "https://www.quakeworld.nu/wiki/Overview",
     "icon": "https://favicons.githubusercontent.com/www.quakeworld.nu",
     "slug": "quake-world-wiki",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 1065,
     "timeDay": 1384,
     "timeWeek": 1154,
     "timeMonth": 1065,
     "timeYear": 1065,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-09-22": 2
+    }
   },
   {
     "name": "QuakeWorld GFX",
     "url": "https://gfx.quakeworld.nu",
     "icon": "https://favicons.githubusercontent.com/gfx.quakeworld.nu",
     "slug": "quake-world-gfx",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 670,
     "timeDay": 771,
     "timeWeek": 670,
     "timeMonth": 670,
     "timeYear": 670,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-09-22": 1
+    }
   },
   {
     "name": "QuakeWorld Hub",
@@ -76,18 +82,20 @@
     "url": "https://hubapi.quakeworld.nu/v2/servers/mvdsv",
     "icon": "https://favicons.githubusercontent.com/hubapi.quakeworld.nu",
     "slug": "quake-world-hub-api",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 697,
     "timeDay": 913,
     "timeWeek": 690,
     "timeMonth": 697,
     "timeYear": 697,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-09-22": 1
+    }
   },
   {
     "name": "QuakeWorld Duel Ranks",
@@ -130,9 +138,9 @@
     "url": "https://www.qhlan.org",
     "icon": "https://favicons.githubusercontent.com/www.qhlan.org",
     "slug": "qhlan-org",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -141,7 +149,9 @@
     "timeWeek": 2007,
     "timeMonth": 2068,
     "timeYear": 2068,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-09-22": 0
+    }
   },
   {
     "name": "builds.quakeworld.nu",
