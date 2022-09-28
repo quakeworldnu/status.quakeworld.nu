@@ -1,7 +1,7 @@
 url: https://hubapi.quakeworld.nu/v2/servers/mvdsv
-status: up
-code: 200
-responseTime: 894
-lastUpdated: 2022-09-27T23:25:15.793Z
+status: down
+code: 500
+responseTime: 724
+lastUpdated: 2022-09-28T16:21:14.351Z
 startTime: Mon Sep 12 2022 12:57:52 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
