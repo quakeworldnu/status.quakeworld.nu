@@ -96,19 +96,19 @@
     "url": "https://www.qwranks.com",
     "icon": "https://favicons.githubusercontent.com/www.qwranks.com",
     "slug": "quake-world-duel-ranks",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 485,
-    "timeDay": 457,
-    "timeWeek": 499,
-    "timeMonth": 485,
-    "timeYear": 485,
+    "status": "up",
+    "uptime": "99.86%",
+    "uptimeDay": "97.22%",
+    "uptimeWeek": "99.60%",
+    "uptimeMonth": "99.86%",
+    "uptimeYear": "99.86%",
+    "time": 479,
+    "timeDay": 417,
+    "timeWeek": 481,
+    "timeMonth": 479,
+    "timeYear": 479,
     "dailyMinutesDown": {
-      "2022-10-01": 0
+      "2022-10-01": 40
     }
   },
   {
@@ -116,19 +116,19 @@
     "url": "https://backend.qwranks.com/matches/0",
     "icon": "https://favicons.githubusercontent.com/backend.qwranks.com",
     "slug": "quake-world-duel-ranks-api",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 963,
-    "timeDay": 705,
-    "timeWeek": 957,
-    "timeMonth": 963,
-    "timeYear": 963,
+    "status": "up",
+    "uptime": "99.86%",
+    "uptimeDay": "97.22%",
+    "uptimeWeek": "99.60%",
+    "uptimeMonth": "99.86%",
+    "uptimeYear": "99.86%",
+    "time": 941,
+    "timeDay": 611,
+    "timeWeek": 897,
+    "timeMonth": 941,
+    "timeYear": 941,
     "dailyMinutesDown": {
-      "2022-10-01": 0
+      "2022-10-01": 40
     }
   },
   {
