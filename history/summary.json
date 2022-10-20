@@ -4,9 +4,9 @@
     "url": "https://www.quakeworld.nu",
     "icon": "https://icons.duckduckgo.com/ip3/www.quakeworld.nu.ico",
     "slug": "quake-world-nu",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 1206,
     "timeMonth": 1242,
     "timeYear": 1239,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-10-20": 0
+    }
   },
   {
     "name": "QuakeWorld Wiki",
