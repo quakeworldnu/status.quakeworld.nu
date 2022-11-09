@@ -40,19 +40,19 @@
     "url": "https://www.nquake.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.nquake.com.ico",
     "slug": "n-quake",
-    "status": "up",
-    "uptime": "61.38%",
-    "uptimeDay": "61.38%",
-    "uptimeWeek": "61.38%",
-    "uptimeMonth": "61.38%",
-    "uptimeYear": "61.38%",
+    "status": "down",
+    "uptime": "65.02%",
+    "uptimeDay": "65.02%",
+    "uptimeWeek": "65.02%",
+    "uptimeMonth": "65.02%",
+    "uptimeYear": "65.02%",
     "time": 3684,
     "timeDay": 3684,
     "timeWeek": 3684,
     "timeMonth": 3684,
     "timeYear": 3684,
     "dailyMinutesDown": {
-      "2022-11-09": 178
+      "2022-11-09": 168
     }
   },
   {
