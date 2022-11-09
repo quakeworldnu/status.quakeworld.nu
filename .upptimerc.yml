@@ -8,6 +8,9 @@ sites:
   - name: QuakeWorld Wiki
     url: https://www.quakeworld.nu/wiki/Overview
 
+  - name: nQuake
+    url: https://www.nquake.com
+    
   - name: QuakeWorld GFX
     url: https://gfx.quakeworld.nu
 
