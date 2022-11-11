@@ -4,54 +4,60 @@
     "url": "https://www.quakeworld.nu",
     "icon": "https://icons.duckduckgo.com/ip3/www.quakeworld.nu.ico",
     "slug": "quake-world-nu",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.77%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 1226,
     "timeDay": 1201,
     "timeWeek": 1149,
     "timeMonth": 1193,
     "timeYear": 1226,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-11-11": 3
+    }
   },
   {
     "name": "QuakeWorld Wiki",
     "url": "https://www.quakeworld.nu/wiki/Overview",
     "icon": "https://icons.duckduckgo.com/ip3/www.quakeworld.nu.ico",
     "slug": "quake-world-wiki",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.80%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 1121,
     "timeDay": 1253,
     "timeWeek": 1173,
     "timeMonth": 1124,
     "timeYear": 1121,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-11-11": 3
+    }
   },
   {
     "name": "QuakeWorld GFX",
     "url": "https://gfx.quakeworld.nu",
     "icon": "https://icons.duckduckgo.com/ip3/gfx.quakeworld.nu.ico",
     "slug": "quake-world-gfx",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.84%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 670,
     "timeDay": 738,
     "timeWeek": 668,
     "timeMonth": 650,
     "timeYear": 670,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-11-11": 2
+    }
   },
   {
     "name": "QuakeWorld Hub",
@@ -76,10 +82,10 @@
     "url": "https://hubapi.quakeworld.nu/v2/servers/mvdsv",
     "icon": "https://icons.duckduckgo.com/ip3/hubapi.quakeworld.nu.ico",
     "slug": "quake-world-hub-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.95%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.95%",
     "time": 719,
@@ -88,6 +94,7 @@
     "timeMonth": 675,
     "timeYear": 719,
     "dailyMinutesDown": {
+      "2022-11-11": 2,
       "2022-10-02": 20,
       "2022-09-28": 20
     }
@@ -137,10 +144,10 @@
     "url": "https://www.qhlan.org",
     "icon": "https://icons.duckduckgo.com/ip3/www.qhlan.org.ico",
     "slug": "qhlan-org",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 2002,
@@ -148,17 +155,19 @@
     "timeWeek": 1948,
     "timeMonth": 1931,
     "timeYear": 2002,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-11-11": 1
+    }
   },
   {
     "name": "builds.quakeworld.nu",
     "url": "https://builds.quakeworld.nu",
     "icon": "https://icons.duckduckgo.com/ip3/builds.quakeworld.nu.ico",
     "slug": "builds-quakeworld-nu",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 748,
@@ -166,16 +175,18 @@
     "timeWeek": 749,
     "timeMonth": 732,
     "timeYear": 748,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-11-11": 1
+    }
   },
   {
     "name": "maps.quakeworld.nu",
     "url": "https://maps.quakeworld.nu",
     "icon": "https://icons.duckduckgo.com/ip3/maps.quakeworld.nu.ico",
     "slug": "maps-quakeworld-nu",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -184,6 +195,8 @@
     "timeWeek": 629,
     "timeMonth": 602,
     "timeYear": 611,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-11-11": 0
+    }
   }
 ]
