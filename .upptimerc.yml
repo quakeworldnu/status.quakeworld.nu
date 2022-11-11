@@ -7,10 +7,6 @@ sites:
 
   - name: QuakeWorld Wiki
     url: https://www.quakeworld.nu/wiki/Overview
-
-  - name: nQuake
-    url: https://nquake.com/images/logo.png
-    icon: https://nquake.com/favicon.ico
     
   - name: QuakeWorld GFX
     url: https://gfx.quakeworld.nu
