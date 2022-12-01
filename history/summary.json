@@ -13,7 +13,7 @@
     "time": 1306,
     "timeDay": 1152,
     "timeWeek": 1139,
-    "timeMonth": 1401,
+    "timeMonth": 1412,
     "timeYear": 1306,
     "dailyMinutesDown": {
       "2022-11-12": 691,
@@ -34,7 +34,7 @@
     "time": 1314,
     "timeDay": 1415,
     "timeWeek": 1158,
-    "timeMonth": 1625,
+    "timeMonth": 1642,
     "timeYear": 1314,
     "dailyMinutesDown": {
       "2022-11-14": 20,
@@ -56,7 +56,7 @@
     "time": 662,
     "timeDay": 611,
     "timeWeek": 627,
-    "timeMonth": 649,
+    "timeMonth": 652,
     "timeYear": 662,
     "dailyMinutesDown": {
       "2022-11-12": 691,
@@ -77,7 +77,7 @@
     "time": 129,
     "timeDay": 124,
     "timeWeek": 89,
-    "timeMonth": 139,
+    "timeMonth": 140,
     "timeYear": 129,
     "dailyMinutesDown": {}
   },
@@ -95,7 +95,7 @@
     "time": 717,
     "timeDay": 750,
     "timeWeek": 759,
-    "timeMonth": 704,
+    "timeMonth": 708,
     "timeYear": 717,
     "dailyMinutesDown": {
       "2022-11-12": 691,
@@ -118,7 +118,7 @@
     "time": 474,
     "timeDay": 538,
     "timeWeek": 441,
-    "timeMonth": 459,
+    "timeMonth": 462,
     "timeYear": 474,
     "dailyMinutesDown": {
       "2022-10-01": 40
@@ -138,7 +138,7 @@
     "time": 1086,
     "timeDay": 1164,
     "timeWeek": 812,
-    "timeMonth": 1276,
+    "timeMonth": 1281,
     "timeYear": 1086,
     "dailyMinutesDown": {
       "2022-10-01": 40
@@ -150,18 +150,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.qhlan.org.ico",
     "slug": "qhlan-org",
     "status": "up",
-    "uptime": "99.28%",
-    "uptimeDay": "99.31%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "98.11%",
-    "uptimeYear": "99.28%",
+    "uptime": "99.29%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "98.13%",
+    "uptimeYear": "99.29%",
     "time": 1892,
     "timeDay": 2322,
     "timeWeek": 1695,
-    "timeMonth": 1713,
+    "timeMonth": 1714,
     "timeYear": 1892,
     "dailyMinutesDown": {
-      "2022-11-30": 10,
       "2022-11-17": 30,
       "2022-11-12": 691,
       "2022-11-11": 96
@@ -181,7 +180,7 @@
     "time": 801,
     "timeDay": 783,
     "timeWeek": 1211,
-    "timeMonth": 875,
+    "timeMonth": 883,
     "timeYear": 801,
     "dailyMinutesDown": {
       "2022-11-12": 691,
@@ -202,7 +201,7 @@
     "time": 604,
     "timeDay": 612,
     "timeWeek": 511,
-    "timeMonth": 597,
+    "timeMonth": 602,
     "timeYear": 604,
     "dailyMinutesDown": {
       "2022-11-12": 691,
